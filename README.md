@@ -104,12 +104,8 @@ Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más informaci
 
 ## 📧 Contacto
 
-Tu Nombre - [@tuusuario](https://twitter.com/tuusuario) - email@ejemplo.com
+
 
 Link del Proyecto: [https://github.com/tuusuario/gym_app](https://github.com/tuusuario/gym_app)
 
 ---
-
-<p align="center">
-  Desarrollado con ❤️ por <a href="https://github.com/tuusuario">Tu Nombre</a>
-</p>
